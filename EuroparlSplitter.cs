@@ -20,7 +20,7 @@ namespace SentenceSplitter
         /// </summary>
         protected void CreateListofNonBreakWords()
         {
-            string FullPath = Path.GetFullPath("nonbreaking_prefixes\nobreaking_prefix." + language);
+            string FullPath = Path.GetFullPath(language + ".txt");
             if (FullPath != null)
                 foreach (string line in File.ReadAllLines(FullPath))
                 {

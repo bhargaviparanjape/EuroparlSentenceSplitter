@@ -56,7 +56,6 @@ w
 x
 y
 z
-
 # Period-final abbreviation list for French
 A.C.N
 A.M
@@ -69,7 +68,7 @@ lib
 B.P
 boul
 ca
-c.-Ã -d
+c.-à-d
 cf
 ch.-l
 chap
@@ -80,7 +79,7 @@ C.N
 C.N.S
 C.S
 dir
-Ã©d
+éd
 e.g
 env
 al
@@ -88,7 +87,7 @@ etc
 E.V
 ex
 fasc
-fÃ©m
+fém
 fig
 fr
 hab
@@ -112,7 +111,7 @@ N.B
 N.D.A
 N.D.L.R
 N.D.T
-n/rÃ©f
+n/réf
 NN.SS
 N.S
 N.D
@@ -144,7 +143,7 @@ sqq
 suiv
 sup
 suppl
-tÃ©l
+tél
 T.S.V.P
 vb
 vol

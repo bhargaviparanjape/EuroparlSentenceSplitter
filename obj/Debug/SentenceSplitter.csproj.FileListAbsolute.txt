@@ -1,0 +1,5 @@
+C:\Users\t-bhpara\Documents\Visual Studio 2015\Projects\MSRLibrary\SentenceSplitter\bin\Debug\SentenceSplitter.exe.config
+C:\Users\t-bhpara\Documents\Visual Studio 2015\Projects\MSRLibrary\SentenceSplitter\bin\Debug\SentenceSplitter.exe
+C:\Users\t-bhpara\Documents\Visual Studio 2015\Projects\MSRLibrary\SentenceSplitter\bin\Debug\SentenceSplitter.pdb
+C:\Users\t-bhpara\Documents\Visual Studio 2015\Projects\MSRLibrary\SentenceSplitter\obj\Debug\SentenceSplitter.exe
+C:\Users\t-bhpara\Documents\Visual Studio 2015\Projects\MSRLibrary\SentenceSplitter\obj\Debug\SentenceSplitter.pdb
