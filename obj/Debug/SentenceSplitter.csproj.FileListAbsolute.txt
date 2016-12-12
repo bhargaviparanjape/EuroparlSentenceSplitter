@@ -1,6 +1,0 @@
-c:\users\t-bhpara\documents\visual studio 2015\Projects\MSRLibrary\SentenceSplitter\bin\Debug\SentenceSplitter.exe.config
-c:\users\t-bhpara\documents\visual studio 2015\Projects\MSRLibrary\SentenceSplitter\bin\Debug\SentenceSplitter.exe
-c:\users\t-bhpara\documents\visual studio 2015\Projects\MSRLibrary\SentenceSplitter\bin\Debug\SentenceSplitter.pdb
-c:\users\t-bhpara\documents\visual studio 2015\Projects\MSRLibrary\SentenceSplitter\obj\Debug\SentenceSplitter.csprojResolveAssemblyReference.cache
-c:\users\t-bhpara\documents\visual studio 2015\Projects\MSRLibrary\SentenceSplitter\obj\Debug\SentenceSplitter.exe
-c:\users\t-bhpara\documents\visual studio 2015\Projects\MSRLibrary\SentenceSplitter\obj\Debug\SentenceSplitter.pdb
