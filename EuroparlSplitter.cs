@@ -47,7 +47,7 @@ namespace SentenceSplitter
             result = Regex.Replace(result, "^ | $", "");
             result = Regex.Replace(result, "([?!]) +([\'\"([¿¡`]*[A-Z])", "$1\n$2");
             result = Regex.Replace(result, "([.][.]+) +([\'\"([¿¡`]*[A-Z])", "$1\n$2");
-            result = Regex.Replace(result, "([?!.][ ]*[\'\"]+) +([\'\"([¿¡`]*[ ]*[A-Z])", "$1\n$2");
+            result = Regex.Replace(result, "([?!.][ ]*[\'\"\\u005d\\u0029\\u0025]+) +([\'\"([¿¡`]*[ ]*[A-Z])", "$1\n$2");
             result = Regex.Replace(result, "([?!.]) +([\'\"([¿¡`]+[ ]*[A-Z])", "$1\n$2");
             string[] words = result.Split(' ');
             string final = "";
